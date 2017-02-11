@@ -6,9 +6,11 @@ This is a list of tools and links I find useful.
 
 I try to learn something new EVERY DAY.
 
-- [Angular2 book by rangle.io](https://angular-2-training-book.rangle.io/): Great book, up-to-date.
+- [Angular2 book by rangle.io](https://angular-2-training-book.rangle.io/): Great book, up-to-date - FREE
 
-- [Redux without Profanity](https://tonyhb.gitbooks.io/redux-without-profanity/content/index.html): Learn React, Redux of BOTH.
+- [ng-book 2](https://www.ng-book.com/2): A great book, best practices included - $
+
+- [Redux without Profanity](https://tonyhb.gitbooks.io/redux-without-profanity/content/index.html): Learn React, Redux of BOTH - FREE
 
 ### Libraries
 
